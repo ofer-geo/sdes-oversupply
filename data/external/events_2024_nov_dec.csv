@@ -1,0 +1,20 @@
+date,start,tier,type,place,lat,lon,event,time_source,source
+2024-11-05,19:00,A,protest,Kaplan Street,32.0731028,34.7865778,Protests after defence minister dismissed,rule (evening),https://www.timesofisrael.com/protesters-take-to-streets-after-gallant-fired-crowds-much-smaller-than-previous-time/
+2024-12-05,20:00,A,football,Bloomfield Stadium,32.0517278,34.7614389,Maccabi Tel Aviv v Hapoel Hadera,stated,https://en.wikipedia.org/wiki/2024%E2%80%9325_Maccabi_Tel_Aviv_F.C._season
+2024-12-21,15:00,A,football,Bloomfield Stadium,32.0517278,34.7614389,Maccabi Tel Aviv v Maccabi Petah Tikva,stated,https://en.wikipedia.org/wiki/2024%E2%80%9325_Maccabi_Tel_Aviv_F.C._season
+2024-12-21,19:00,A,protest,Kaplan Street,32.0731028,34.7865778,Weekly anti-government and hostage-deal protest,rule (night),https://www.timesofisrael.com/liveblog_entry/thousands-protest-for-hostage-deal-in-tel-aviv-and-jerusalem-2/
+2024-12-25,21:15,A,concert,Menora Mivtachim Arena,32.0609472,34.7913333,NEXT 2024,stated,https://www.secrettelaviv.com/tickets/next-2024-show-with-omer-adam-aviv-geffen-osher-cohen-and-more-menora-mivtachim-arena
+2024-11-07,19:00,B,concert,Menora Mivtachim Arena,32.0609472,34.7913333,Dennis Lloyd,rule (not stated),https://www.songkick.com/venues/3034889-menora-mivtachim-arena-hykl-mnvrh-mbtkhym
+2024-11-08,19:00,B,football,Bloomfield Stadium,32.0517278,34.7614389,Hapoel Tel Aviv v Maccabi Kabilio Jaffa,rule (not stated),https://livesoccer.planetsport.com/live/soccer/match-detail/israel-leumit-league-hapoel-tel-aviv-vs-maccabi-kabilio-jaffa/2024-11-08/2694066/overview
+2024-11-09,19:00,B,protest,Hostages Square,32.0770,34.7871,400 days rally and weekly protest,rule (night),https://www.timesofisrael.com/hostage-families-to-mark-400-unimaginable-days-as-protesters-seethe-over-gallant/
+2024-12-07,19:00,B,protest,Hostages Square,32.0770,34.7871,Rally for hostage release,rule (not stated),https://www.jpost.com/breaking-news/article-832368
+2024-12-16,19:00,B,football,Bloomfield Stadium,32.0517278,34.7614389,Hapoel Tel Aviv v Bnei Yehuda,rule (not stated),https://livesoccer.planetsport.com/live/soccer/match-detail/israel-leumit-league-hapoel-tel-aviv-vs-bnei-yehuda-tel-aviv/2024-12-16/2694086/table
+2024-12-26,19:00,B,concert,Menora Mivtachim Arena,32.0609472,34.7913333,Late December concert run,rule (not stated),https://www.concertarchives.org/venues/menora-mivtachim-arena--839793
+2024-12-28,19:00,B,concert,Menora Mivtachim Arena,32.0609472,34.7913333,Late December concert run,rule (not stated),https://www.concertarchives.org/venues/menora-mivtachim-arena--839793
+2024-12-28,20:00,B,football,Bloomfield Stadium,32.0517278,34.7614389,Maccabi Tel Aviv v Hapoel Jerusalem (State Cup),stated (from summary),https://en.wikipedia.org/wiki/2024%E2%80%9325_Maccabi_Tel_Aviv_F.C._season
+2024-12-16,,C,disruption,Central Israel,,,Missile sirens,whole date,https://cp24.com/news/world/2024/12/25/missile-fire-from-yemens-houthi-rebels-sets-off-sirens-in-central-israel-for-the-second-night
+2024-12-19,,C,disruption,Ramat Gan and Tel Aviv coast,,,Missile hit and drone interception,whole date,https://www.timesofisrael.com/missile-from-yemen-explodes-in-south-tel-aviv-park-lightly-injuring-16/
+2024-12-21,,C,disruption,Jaffa,,,Missile hit a public park at 03:44,whole date,https://www.timesofisrael.com/missile-from-yemen-explodes-in-south-tel-aviv-park-lightly-injuring-16/
+2024-12-24,,C,disruption,Central Israel,,,Missile sirens (date inferred),whole date,https://cp24.com/news/world/2024/12/25/missile-fire-from-yemens-houthi-rebels-sets-off-sirens-in-central-israel-for-the-second-night
+2024-12-25,,C,disruption,Central Israel,,,Missile sirens,whole date,https://cp24.com/news/world/2024/12/25/missile-fire-from-yemens-houthi-rebels-sets-off-sirens-in-central-israel-for-the-second-night
+2024-12-27,,C,disruption,Central Israel including Tel Aviv,,,Missile sirens,whole date,https://www.defensemirror.com/news/38490

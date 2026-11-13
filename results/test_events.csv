@@ -1,0 +1,40 @@
+horizon_h,date,start,tier,place,event,cells,max_parked,actual_over_usual,n_20,n_new_20,n_unusual,flagged_LightGBM,flagged_GNN + flows,flagged_Blend
+1,2024-11-05,19:00,A,Kaplan Street,Protests after defence minister dismissed,44,35,1.222113847732544,9,6,5,4,4,4
+1,2024-12-05,20:00,A,Bloomfield Stadium,Maccabi Tel Aviv v Hapoel Hadera,43,69,1.6222622394561768,12,5,10,5,4,5
+1,2024-12-21,15:00,A,Bloomfield Stadium,Maccabi Tel Aviv v Maccabi Petah Tikva,43,48,1.4876134395599365,12,5,11,7,7,7
+1,2024-12-21,19:00,A,Kaplan Street,Weekly anti-government and hostage-deal protest,44,25,0.9178838133811951,1,1,0,0,0,0
+1,2024-12-25,21:15,A,Menora Mivtachim Arena,NEXT 2024,37,11,1.1424230337142944,0,0,0,0,0,0
+1,2024-11-07,19:00,B,Menora Mivtachim Arena,Dennis Lloyd,37,5,0.600983738899231,0,0,0,0,0,0
+1,2024-11-08,19:00,B,Bloomfield Stadium,Hapoel Tel Aviv v Maccabi Kabilio Jaffa,43,21,0.8686596155166626,2,1,2,2,1,2
+1,2024-11-09,19:00,B,Hostages Square,400 days rally and weekly protest,33,18,0.7722855806350708,0,0,0,0,0,0
+1,2024-12-07,19:00,B,Hostages Square,Rally for hostage release,33,25,1.198141098022461,1,1,0,1,0,1
+1,2024-12-16,19:00,B,Bloomfield Stadium,Hapoel Tel Aviv v Bnei Yehuda,43,71,1.4367468357086182,6,2,6,5,5,5
+1,2024-12-26,19:00,B,Menora Mivtachim Arena,Late December concert run,37,16,1.3259800672531128,0,0,0,0,0,0
+1,2024-12-28,19:00,B,Menora Mivtachim Arena,Late December concert run,37,14,1.4980493783950806,0,0,0,0,0,0
+1,2024-12-28,20:00,B,Bloomfield Stadium,Maccabi Tel Aviv v Hapoel Jerusalem (State Cup),43,43,1.3492785692214966,13,5,8,6,6,7
+3,2024-11-05,19:00,A,Kaplan Street,Protests after defence minister dismissed,44,35,1.222113847732544,9,8,5,2,1,1
+3,2024-12-05,20:00,A,Bloomfield Stadium,Maccabi Tel Aviv v Hapoel Hadera,43,69,1.6222622394561768,12,12,10,0,0,0
+3,2024-12-21,15:00,A,Bloomfield Stadium,Maccabi Tel Aviv v Maccabi Petah Tikva,43,48,1.4876134395599365,12,12,11,0,0,0
+3,2024-12-21,19:00,A,Kaplan Street,Weekly anti-government and hostage-deal protest,44,25,0.9178838133811951,1,1,0,1,0,0
+3,2024-12-25,21:15,A,Menora Mivtachim Arena,NEXT 2024,37,11,1.1424230337142944,0,0,0,0,0,0
+3,2024-11-07,19:00,B,Menora Mivtachim Arena,Dennis Lloyd,37,5,0.600983738899231,0,0,0,0,0,0
+3,2024-11-08,19:00,B,Bloomfield Stadium,Hapoel Tel Aviv v Maccabi Kabilio Jaffa,43,21,0.8686596155166626,2,2,2,1,1,1
+3,2024-11-09,19:00,B,Hostages Square,400 days rally and weekly protest,33,18,0.7722855806350708,0,0,0,0,0,0
+3,2024-12-07,19:00,B,Hostages Square,Rally for hostage release,33,25,1.198141098022461,1,1,0,1,0,1
+3,2024-12-16,19:00,B,Bloomfield Stadium,Hapoel Tel Aviv v Bnei Yehuda,43,71,1.4367468357086182,6,6,6,1,1,1
+3,2024-12-26,19:00,B,Menora Mivtachim Arena,Late December concert run,37,16,1.3259800672531128,0,0,0,0,0,0
+3,2024-12-28,19:00,B,Menora Mivtachim Arena,Late December concert run,37,14,1.4980493783950806,0,0,0,0,0,0
+3,2024-12-28,20:00,B,Bloomfield Stadium,Maccabi Tel Aviv v Hapoel Jerusalem (State Cup),43,43,1.3492785692214966,13,9,8,3,4,4
+6,2024-11-05,19:00,A,Kaplan Street,Protests after defence minister dismissed,44,35,1.222113847732544,9,7,5,1,1,1
+6,2024-12-05,20:00,A,Bloomfield Stadium,Maccabi Tel Aviv v Hapoel Hadera,43,69,1.6222622394561768,12,12,10,0,0,0
+6,2024-12-21,15:00,A,Bloomfield Stadium,Maccabi Tel Aviv v Maccabi Petah Tikva,43,48,1.4876134395599365,12,12,11,0,0,0
+6,2024-12-21,19:00,A,Kaplan Street,Weekly anti-government and hostage-deal protest,44,25,0.9178838133811951,1,1,0,0,0,0
+6,2024-12-25,21:15,A,Menora Mivtachim Arena,NEXT 2024,37,11,1.1424230337142944,0,0,0,0,0,0
+6,2024-11-07,19:00,B,Menora Mivtachim Arena,Dennis Lloyd,37,5,0.600983738899231,0,0,0,0,0,0
+6,2024-11-08,19:00,B,Bloomfield Stadium,Hapoel Tel Aviv v Maccabi Kabilio Jaffa,43,21,0.8686596155166626,2,2,2,0,0,0
+6,2024-11-09,19:00,B,Hostages Square,400 days rally and weekly protest,33,18,0.7722855806350708,0,0,0,0,0,0
+6,2024-12-07,19:00,B,Hostages Square,Rally for hostage release,33,25,1.198141098022461,1,1,0,1,1,1
+6,2024-12-16,19:00,B,Bloomfield Stadium,Hapoel Tel Aviv v Bnei Yehuda,43,71,1.4367468357086182,6,6,6,0,0,0
+6,2024-12-26,19:00,B,Menora Mivtachim Arena,Late December concert run,37,16,1.3259800672531128,0,0,0,0,0,0
+6,2024-12-28,19:00,B,Menora Mivtachim Arena,Late December concert run,37,14,1.4980493783950806,0,0,0,0,0,0
+6,2024-12-28,20:00,B,Bloomfield Stadium,Maccabi Tel Aviv v Hapoel Jerusalem (State Cup),43,43,1.3492785692214966,13,10,8,3,4,4

@@ -1,0 +1,10 @@
+step,removed,remaining
+initial,0,11479241
+no following record (censored at end of data),7267,11471974
+starts with an orphan reservation,172230,11299744
+ended before study period,0,11299744
+start/end location > 25 m apart,1341162,9958582
+merged with the next event (short interruption),505831,9452751
+outside city,424820,9027931
+taken out of service within 10 min (low battery after a ride),213820,8814111
+shorter than 5 s,8616,8805495
